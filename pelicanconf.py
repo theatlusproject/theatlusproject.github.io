@@ -8,6 +8,7 @@ SITEURL = 'https://theatlasproject.org'
 
 PATH = 'content'
 
+OUTPUT_PATH ='output/theatlusproject.github.io/'
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
