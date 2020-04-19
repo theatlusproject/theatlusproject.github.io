@@ -1,4 +1,4 @@
-Title: Stewardship - A tool for Generosity
+Title: Stewardship - A Tool for Generosity
 Authors: Julius J
 Date: 2020-05-18 12:00
 Category: Resources
