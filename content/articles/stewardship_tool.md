@@ -2,7 +2,7 @@ Title: Stewardship - A tool for Generosity
 Authors: Julius J
 Date: 2020-05-18 12:00
 Category: Resources
-Summary: Stewardship is a gift for God to help his people manage the money he has given us. Are you a part of the quarter of Americans who couldn’t afford an emergency expense greater than $400? Or would you have to borrow the money volunteering yourself for slavery? God commands us to live generously, and we limit ourselves through impatience, greed, and irresponsibility.
+Summary: Stewardship is a gift for God to help his people manage the money He has given us. Are you a part of the quarter of Americans who couldn’t afford an emergency expense greater than $400? Or would you have to borrow the money volunteering yourself for slavery? God commands us to live generously, and we limit ourselves through impatience, greed, and irresponsibility.
 Slug: stewardship-generosity
 
 Are you a part of the quarter of Americans who couldn’t afford an emergency expense greater than $400? Or would you have to borrow the money volunteering yourself for slavery? God commands us to live generously, and we limit ourselves through impatience, greed, and irresponsibility. 
@@ -29,7 +29,7 @@ Living a generous life takes intentionality and preparation. Without the proper 
 
 It is easy to get caught up in managing our treasures without recognizing the ultimate goal. The reason stewardship is essential is that it fosters a heart of generosity -- it’s not the secret to wealth.
 
-The purpose of this writing isn’t to instill fear but to spark an urgency to serve God using the financial resources he has entrusted to you. 
+The purpose of this writing isn’t to instill fear but to spark an urgency to serve God using the financial resources He has entrusted to you. 
 
 
 
@@ -87,7 +87,7 @@ Whether you are unsure of who God is or been a follower of Jesus for decades, ou
 
 **Next Steps:**
 
-I have included a few additional scriptures on the use of time, talents, and treasure. To make Jesus Lord of your finances, it requires understanding how he views money and seeking advice from those he has given the ability to manage his money well. 
+I have included a few additional scriptures on the use of time, talents, and treasure. To make Jesus Lord of your finances, it requires understanding how He views money and seeking advice from those He has given the ability to manage his money well. 
 
 *   [1 Peter 4:10](https://www.biblegateway.com/passage/?search=1+Peter+4%3A10&version=NIV)
 *   [Proverbs 30:25](https://www.biblegateway.com/passage/?search=Proverbs+30%3A25&version=NIV)
